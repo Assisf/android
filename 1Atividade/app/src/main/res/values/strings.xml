@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">1Atividade</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="textview">TextView</string>
+    <string name="bom">Bom</string>
+    <string name="ruim">Ruim</string>
+    <string name="digitar_o_mes">Digite o Mês</string>
+    <string name="green_string">Green</string>
+    <string name="red_string">Red</string>
+    <string name="button">Button</string>
+    <string name="country_prompt">country_prompt</string>
+
+    <string-array name="country_arrays">
+        <item>Normal</item>
+        <item>Strong</item>
+        <item>Great</item>
+        <item>Ultimate</item>
+    </string-array>
+</resources>
