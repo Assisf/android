@@ -102,11 +102,11 @@ public class DisplayMessageActivity extends AppCompatActivity implements PopupMe
         public void onCheckedChanged(RadioGroup group, int checkedId) {
             switch(checkedId){
                 case R.id.radioButton3:
-                    tv_t2.setText(":)");
+                    tv_t2.setText(":(");
                     break;
 
                 case R.id.radioButton4:
-                    tv_t2.setText(":(");
+                    tv_t2.setText(":)");
                     break;
             }
         }
