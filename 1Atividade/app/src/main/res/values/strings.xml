@@ -9,6 +9,7 @@
     <string name="red_string">Red</string>
     <string name="button">Button</string>
     <string name="country_prompt">country_prompt</string>
+    <string name="Animais">animais</string>
 
     <string-array name="country_arrays">
         <item>Normal</item>
